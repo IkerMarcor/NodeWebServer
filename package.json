@@ -1,13 +1,13 @@
 {
-  "name": "03tut",
+  "name": "Node.js Web Server tutorial",
   "version": "1.0.0",
-  "description": "Node.js Web Server tutorial",
+  "description": "Learning to build a Web Server only with Node",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "",
+  "author": "Iker Marcor (w. Dave Gray)",
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.29.3",
